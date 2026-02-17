@@ -8,8 +8,8 @@ from typing import List, Dict, Any
 from dotenv import load_dotenv
 
 from google.cloud import bigquery
+from google.cloud import aiplatform
 from vertexai.language_models import TextEmbeddingModel
-import aiplatform
 
 
 class VectorSearcher:
