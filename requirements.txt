@@ -1,0 +1,5 @@
+google-cloud-aiplatform>=1.38.0
+google-cloud-bigquery>=3.14.0
+pandas>=2.0.0
+python-dotenv>=1.0.0
+tqdm>=4.66.0
